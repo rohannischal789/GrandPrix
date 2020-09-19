@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RNG
+comment0.text=\r\n\ RNG\ is\ the\ class\ which\ is\ used\ to\ generate\ random\ numbers\ in\ order\ to\ generate\ probability\ for\ each\ lap\ event.\r\n\ It\ has\ accessor\ and\ mutator\ methods\ to\ return\ or\ update\ the\ minimum\ and\ maximum\ number\ to\ generate.\r\n\ It\ also\ has\ a\ method\ to\ generate\ a\ random\ number\ between\ 2\ values\ (max\ exclusive)\r\n\ @author\ Rohan\r\n\ @version\ 1.2\r\n
+comment1.params=
+comment1.target=RNG()
+comment1.text=\r\n\ RNG\ Constructor\r\n\ Sets\ the\ maximum\ and\ minimum\ values\ to\ default\ values\r\n
+comment2.params=minVal\ maxVal
+comment2.target=RNG(int,\ int)
+comment2.text=\r\n\ RNG\ Constructor\r\n\r\n\ @param\ minVal\ A\ minimum\ value\ that\ can\ be\ generated\r\n\ @param\ maxVal\ A\ maximum\ value\ that\ can\ be\ generated(exclusive)\r\n
+comment3.params=
+comment3.target=int\ getMinimumValue()
+comment3.text=\r\n\ Method\ getMinimumValue\r\n\r\n\ @return\ The\ minimum\ value\ that\ can\ be\ generated\r\n
+comment4.params=
+comment4.target=int\ getMaximumValue()
+comment4.text=\r\n\ Method\ getMaximumValue\r\n\r\n\ @return\ The\ maximum\ value\ that\ can\ be\ generated\r\n
+comment5.params=minValue
+comment5.target=void\ setMinimumValue(int)
+comment5.text=\r\n\ Method\ setMinimumValue\r\n\r\n\ @param\ minValue\ A\ minimum\ value\ that\ can\ be\ generated\r\n
+comment6.params=maxValue
+comment6.target=void\ setMaximumValue(int)
+comment6.text=\r\n\ Method\ setMaximumValue\r\n\r\n\ @param\ maxValue\ A\ maximum\ value\ that\ can\ be\ generated\r\n
+comment7.params=
+comment7.target=int\ generateRandomNo()
+comment7.text=\r\n\ Method\ generateRandomNo\r\n\r\n\ @return\ a\ random\ number\ between\ the\ minimum(inclusive)\ and\ maximum(exclusive)\ values\ \r\n
+numComments=8

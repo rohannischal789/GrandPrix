@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FileIO\ here.\r\n\r\n\ @author\ Rohan\ Nischal\r\n\ @version\ 1.2\r\n
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\r\n\ FileIO\ Constructor\r\n\ Sets\ the\ field\ values\ to\ the\ default\ values\ (default\ constructor)\r\n
+comment2.params=newFileName
+comment2.target=FileIO(java.lang.String)
+comment2.text=\r\n\ FileIO\ Constructor\r\n\ Sets\ the\ field\ values\ to\ the\ arguments\ passed\ (non-default\ constructor)\r\n\ @param\ newFileName\ A\ new\ file\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment3.text=\r\n\ Method\ getFileName\r\n\r\n\ @return\ The\ name\ of\ the\ file\ to\ be\ read/written\ to\r\n
+comment4.params=newFileName
+comment4.target=void\ setFileName(java.lang.String)
+comment4.text=\r\n\ Method\ setFileName\r\n\r\n\ @param\ newFileName\ A\ name\ of\ the\ file\ to\ be\ read/written\ to\r\n
+comment5.params=
+comment5.target=java.lang.String\ readFile()
+comment5.text=\r\n\ Method\ readFile\r\n\r\n\ @return\ All\ the\ file's\ contents.\ Each\ Line\ end\ replaced\ by\ \\n\ character.\r\n
+comment6.params=contents
+comment6.target=void\ writeFile(java.lang.String)
+comment6.text=\r\n\ Method\ writeFile\r\n\r\n\ @param\ contents\ The\ contents\ to\ write\ into\ the\ file.\ Each\ line\ end\ must\ be\ represented\ by\ \\n\ character.\r\n
+numComments=7

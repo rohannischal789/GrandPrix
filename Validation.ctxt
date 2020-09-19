@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\r\n\ Validation\ class\ contains\ methods\ to\ help\ in\ validation\ of\ various\ cases.\r\n\ @author\ Rohan\ Nischal\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Validation\r\n
+comment2.params=minValue\ maxValue\ length
+comment2.target=boolean\ isNumberBetween(int,\ int,\ int)
+comment2.text=\r\n\ Method\ isNumberBetween\r\n\r\n\ @param\ minValue\ The\ minimum\ value\ to\ compare\ with\r\n\ @param\ maxValue\ The\ maximum\ value\ to\ compare\ with\r\n\ @param\ length\ The\ length\ to\ be\ compared\r\n\ @return\ returns\ true\ if\ the\ length\ is\ between\ minimum\ and\ maximum\ value\ (inclusive)\r\n
+numComments=3
